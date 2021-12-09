@@ -22,7 +22,7 @@ chatLangCallback({
     "S_NAME_LABEL": "Name",
     "S_EMAIL_LABEL": "Email",
     "S_QUESTION_LABEL": "Question",
-    "S_START_BUTTON": "Start Chat",
+    "S_START_BUTTON": "Start Chat EME",
     "S_SUBJECT_LABEL": "Test Subject",
     "S_CONTENT_LABEL": "Test Content",
     "S_SEND_EMAIL_BUTTON": "Test@ Send Email"
