@@ -36,7 +36,7 @@ chatLangCallback({
     "S_EXIT_CONFERENCE": "{0} left the conversation",
     "S_TRANSFER_GROUP": "You have been transferred to the group {0}.",
     "S_AGENT_ADDED":"{0} added to conversation",
-    "S_AGENT_END":"Agent ended the chat.",
+    "S_AGENT_END":"System ended the chat.",
     "S_CUSTOMER_END":"Customer ended the chat.",
     "S_START_NEW": "Start New Chat",
     "S_THANK_YOU_OR":"or",
